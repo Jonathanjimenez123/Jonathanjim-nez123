@@ -9,7 +9,6 @@ Soy un Desarrollador Full Stack apasionado por crear experiencias digitales exce
 📍 Ubicado en Medellín, Colombia
 💬 Pregúntame sobre JavaScript, Python, Seguridad Web
 📧 Contáctame: escobarjimenez7@gmail.com
-📱 WhatsApp: +57 312 223 8132
 🛠️ Tecnologías y Herramientas
 Frontend
 ReactNext.jsTypeScriptJavaScriptHTML5CSS3Tailwind CSS
