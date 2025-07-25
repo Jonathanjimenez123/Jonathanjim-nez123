@@ -32,7 +32,7 @@ Aquí puedes ver algunas de mis certificaciones y logros profesionales:
 
 * **Google Developers Profile:**
     [![Google Developers Profile Badge](https://developers.google.com/profile/badges/profile/created-profile/created_profile.svg)](https://developers.google.com/profile)
-
+    [![Google Developers Profile Badge](https://developers.google.com/static/profile/badges/recognitions/learnings/learnings.svg)](https://developers.google.com/profile)
 
 📊 Estadísticas de GitHub
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jonathanjimenez123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanjimenez123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathanjimenez123&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
